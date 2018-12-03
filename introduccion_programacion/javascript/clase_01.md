@@ -1,5 +1,8 @@
+# Introducción a la programación
 
-### Variables
+## JavaScript
+
+### Clase 01: Variables
 
 Una variable es un espacio de memoria que se utiliza para guardar información: `var mi_perro = "Firulais"`.
 

@@ -1,4 +1,8 @@
-# katu
+# [Introducción a la programación](../../introduccion_programacion)
+
+## [JavaScript](../javascript)
+
+### [Clase 00: ¿programación? ¿javascript?](./clase_00.md)
 
 La principal idea de esta guía es aprender a programar utilizando el lenguaje JavaScript.
 
