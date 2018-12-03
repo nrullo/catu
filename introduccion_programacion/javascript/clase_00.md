@@ -1,4 +1,4 @@
-# [Katu Programming](../../../README.md)
+# [Katu Programming](../../README.md)
 
 ## [Introducción a la programación](../../introduccion_programacion)
 
