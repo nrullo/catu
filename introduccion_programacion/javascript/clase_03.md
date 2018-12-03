@@ -1,5 +1,7 @@
-# [Introducción a la programación](../../introduccion_programacion)
+# [Katu Programming](../../../README.md)
 
-## [JavaScript](../javascript)
+## [Introducción a la programación](../../introduccion_programacion)
 
-### [Clase 03: ](./clase_03.md)
+### [JavaScript](../javascript)
+
+#### [Clase 03: ](./clase_03.md)

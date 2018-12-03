@@ -1,14 +1,16 @@
-# [Introducción a la programación](../../introduccion_programacion)
+# [Katu Programming](../../../README.md)
 
-## [JavaScript](../javascript)
+## [Introducción a la programación](../../introduccion_programacion)
 
-### [Clase 00: ¿programación? ¿javascript?](./clase_00.md)
+### [JavaScript](../javascript)
+
+#### [Clase 00: ¿programación? ¿javascript?](./clase_00.md)
 
 La principal idea de esta guía es aprender a programar utilizando el lenguaje JavaScript.
 
-## ¿Qué es programar?
+##### ¿Qué es programar?
 
-## ¿Qué es JavaScript?
+##### ¿Qué es JavaScript?
 JavaScript es un lenguaje de scripting multiplataforma y orientado a objetos. Es un lenguaje pequeño y liviano. Dentro de un ambiente de host, JavaScript puede conectarse a los objetos de su ambiente y proporcionar control programático sobre ellos.
 
 JavaScript contiene una librería estándar de objetos, tales como  Array, Date, y Math, y un conjunto central de elementos del lenguaje, tales como operadores, estructuras de control, y sentencias. El núcleo de JavaScript puede extenderse para varios propósitos, complementándolo con objetos adicionales, por ejemplo:

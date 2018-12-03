@@ -1,14 +1,16 @@
-# [Introducción a la programación](../../introduccion_programacion)
+# [Katu Programming](../../../README.md)
 
-## [JavaScript](../javascript)
+## [Introducción a la programación](../../introduccion_programacion)
 
-### [Clase 01: Variables](./clase_01.md)
+### [JavaScript](../javascript)
+
+#### [Clase 01: Variables](./clase_01.md)
 
 Una variable es un espacio de memoria que se utiliza para guardar información: `var mi_perro = "Firulais"`.
 
 El valor que guardamos en una variable puede tener diferentes tipos de datos que veremos a continuación.
 
-#### Numérico (integer, float)
+##### Numérico (integer, float)
 
 Por ejemplo, si estamos programando un video juego y queremos guardar el actual `nivel` del jugador, podemos a guardarlo de la siguiente manera:
 
