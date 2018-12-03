@@ -1,16 +1,12 @@
-# [Katu Programming](../../README.md)
+# Clase 01: Variables `var` y comentarios `// me gusta programar`
 
-## [Introducción a la programación](../../introduccion_programacion)
-
-### [JavaScript](../javascript)
-
-#### [Clase 01: Variables `var` y comentarios `// me gusta programar`](./clase_01.md)
+## Variables
 
 Una variable es un espacio de memoria que se utiliza para guardar información: `var mi_perro = "Firulais"`.
 
 El valor que guardamos en una variable puede tener diferentes tipos de datos que veremos a continuación.
 
-##### Numérico (integer, float)
+### Numérico (integer, float)
 
 Por ejemplo, si estamos programando un video juego y queremos guardar el actual `nivel` del jugador, podemos a guardarlo de la siguiente manera:
 
@@ -20,7 +16,7 @@ Ahora si queremos guardar el actual `puntaje` del jugador, podemos hacerlo escri
 
 `var puntaje = 425.2; // la variable "puntaje" va a tener un valor numérico (float) igual 425.2`
 
-#### Cadena de texto (string)
+### Cadena de texto (string)
 
 En cambio si queremos guardar el nombre del jugador podemos hacerlo escribiendo:
 
@@ -28,8 +24,21 @@ En cambio si queremos guardar el nombre del jugador podemos hacerlo escribiendo:
 
 > `Kr4zyEy3z` significa "Crazy Eyes" (inglés), es decir "Ojos Locos" (español)
 
-#### Arreglos (arrays)
+### Arreglos (arrays)
 
-#### Boolean
+### Boolean
 
 Del mismo modo, si queremos guardar
+
+## Comentarios
+
+Un comentario es una parte del código que no se ejecuta, que utilizamos para hacer anotaciones alrededor del código. Ejemplo:
+
+```javascript
+// este es un comentario de una sola línea
+
+/*
+este es otro comentario,
+pero de múltiples líneas
+*/
+```
