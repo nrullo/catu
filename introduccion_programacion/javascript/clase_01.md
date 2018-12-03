@@ -28,8 +28,6 @@ En cambio si queremos guardar el nombre del jugador podemos hacerlo escribiendo:
 
 ### Boolean
 
-Del mismo modo, si queremos guardar
-
 ## Comentarios
 
 Un comentario es una parte del código que no se ejecuta, que utilizamos para hacer anotaciones alrededor del código. Ejemplo:
