@@ -4,4 +4,4 @@
 
 ### [JavaScript](../javascript)
 
-#### [Clase 05: ](./clase_05.md)
+#### [Clase 05: El bucle `while`](./clase_05.md)

@@ -4,4 +4,4 @@
 
 ### [JavaScript](../javascript)
 
-#### [Clase 04: ](./clase_04.md)
+#### [Clase 04: Funciones `function`](./clase_04.md)

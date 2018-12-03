@@ -4,4 +4,4 @@
 
 ### [JavaScript](../javascript)
 
-#### [Clase 06: ](./clase_06.md)
+#### [Clase 06: Repaso](./clase_06.md)

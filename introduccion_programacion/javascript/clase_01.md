@@ -4,7 +4,7 @@
 
 ### [JavaScript](../javascript)
 
-#### [Clase 01: Variables](./clase_01.md)
+#### [Clase 01: Variables `var` y comentarios `// me gusta programar`](./clase_01.md)
 
 Una variable es un espacio de memoria que se utiliza para guardar información: `var mi_perro = "Firulais"`.
 

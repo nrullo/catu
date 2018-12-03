@@ -4,4 +4,4 @@
 
 ### [JavaScript](../javascript)
 
-#### [Clase 03: ](./clase_03.md)
+#### [Clase 03: El bucle `for`](./clase_03.md)

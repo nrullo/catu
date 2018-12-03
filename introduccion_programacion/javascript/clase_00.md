@@ -4,7 +4,7 @@
 
 ### [JavaScript](../javascript)
 
-#### [Clase 00: ¿programación? ¿javascript?](./clase_00.md)
+#### [Clase 00: ¿programación? ¿JavaScript?](./clase_00.md)
 
 La principal idea de esta guía es aprender a programar utilizando el lenguaje JavaScript.
 
