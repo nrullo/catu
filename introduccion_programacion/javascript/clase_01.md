@@ -22,7 +22,7 @@ En cambio si queremos guardar el nombre del jugador podemos hacerlo escribiendo:
 
 `var nombre_de_usuario = "Kr4zyEy3z" // la variable "nombre_de_usuario" va a guardar una cadena de caracteres (string) con el valor "Kr4zyEy3z"`
 
-> `Kr4zyEy3z` significa "Crazy Eyes" (inglés), es decir "Ojos Locos" (español)
+> `Kr4zyEy3z` significa "Crazy Eyes" (inglés), es decir "Ojos Locos"
 
 ### Arreglos (arrays)
 
