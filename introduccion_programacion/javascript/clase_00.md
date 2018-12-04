@@ -1,4 +1,4 @@
-# Clase 00: ¿programación? ¿JavaScript?
+# Clase 00: ¿Programación? ¿JavaScript?
 
 La principal idea de esta guía es aprender a programar utilizando el lenguaje JavaScript.
 
