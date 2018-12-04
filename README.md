@@ -2,7 +2,7 @@
 
 * [Introducción a la programación](./introduccion_programacion/)
   * [Javascript](./introduccion_programacion/javascript/)
-    * [Clase 00: ¿programación? ¿JavaScript?](./introduccion_programacion/javascript/clase_00.md)
+    * [Clase 00: ¿Programación? ¿JavaScript?](./introduccion_programacion/javascript/clase_00.md)
     * [Clase 01: Variables `var` y comentarios `// me gusta programar`](./introduccion_programacion/javascript/clase_01.md)
     * [Clase 02: Estructura condicional `if ... else`](./introduccion_programacion/javascript/clase_02.md)
     * [Clase 03: El bucle `for`](./introduccion_programacion/javascript/clase_03.md)
