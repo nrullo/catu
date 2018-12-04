@@ -1,4 +1,4 @@
-# [Katu Programming](./README.md)
+# [Catu Programming](./README.md)
 
 * [Introducción a la programación](./introduccion_programacion/)
   * [Javascript](./introduccion_programacion/javascript/)
