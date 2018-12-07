@@ -16,5 +16,5 @@ JavaScript es un lenguaje de programación que te permite realizar actividades c
 
 HTML es un lenguaje de marcado que usa la estructura para dar un sentido al contenido web, por ejemplo define párrafos, cabeceras, tablas, imágenes y vídeos en la página.
 
-# CSS
+## CSS
 CSS es un lenguaje de reglas en cascada que usamos para aplicar un estilo a nuestro contenido en HTML, por ejemplo colocando colores de fondo, fuentes y marginando nuestro contenido en múltiples columnas.
