@@ -28,7 +28,7 @@ En cambio si queremos guardar el nombre del jugador podemos hacerlo escribiendo:
 
 ## Comentarios
 
-Un comentario es una parte del código que no se ejecuta, que utilizamos para hacer anotaciones alrededor del código. Ejemplo:
+En las líneas de código de arriba aparecen unas marcas `//`, eso es un comentario. Un comentario es una parte del código que no se ejecuta, que utilizamos para hacer anotaciones alrededor del código. Ejemplo:
 
 ```javascript
 // este es un comentario de una sola línea
